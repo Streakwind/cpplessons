@@ -1,4 +1,4 @@
-###Section 1 and 2 quiz
+### Section 1 and 2 quiz
 1. When was computer science originally made?
 a.  in the 1970s
 b. in the year 2000
