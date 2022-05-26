@@ -16,7 +16,7 @@ Checkout my github repo on how to find any datatypes size [here](https://github.
 Using datatypes, we can create variables. This will be discussed later.
 For right now though, just know that a variable is defined like this.
 
-<img src="Pictures\variableDrawing1" class="img-responsive" alt="Variable drawing">
+<img src="Pictures\variableDrawing1.jpg" class="img-responsive" alt="Variable drawing">
 
 Note: `//` declares a comment. Comments are only for clarity and the compiler does not read it.
 ````cpp
@@ -25,7 +25,6 @@ string myStr = "Hi!" //str = string, word, character, sentence, paragraph, essay
 bool myBool = true //true or false?
 char myChar = '!' //char = character
 ````
-Finish sections 1 & 2s quiz in the quiz folder.
 
 ### Section 3: Setting up your first C++ code
 Read the comments!
@@ -48,4 +47,4 @@ return 0; //return this if the compiler succesfully ran through the code
 ```
 And it's that simple!
 
-Finish Section 3s quiz in the quiz folder.
+Finish Section 1, 2, and 3s quiz in the quiz folder.
